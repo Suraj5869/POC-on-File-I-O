@@ -1,0 +1,14 @@
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\FileInputOutput\FileInputOutput\obj\Debug\net8.0\FileInputOutput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\FileInputOutput\FileInputOutput\obj\Debug\net8.0\FileInputOutput.AssemblyInfoInputs.cache
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\FileInputOutput\FileInputOutput\obj\Debug\net8.0\FileInputOutput.AssemblyInfo.cs
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\FileInputOutput\FileInputOutput\obj\Debug\net8.0\FileInputOutput.csproj.CoreCompileInputs.cache
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\FileInputOutput\FileInputOutput\bin\Debug\net8.0\FileInputOutput.exe
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\FileInputOutput\FileInputOutput\bin\Debug\net8.0\FileInputOutput.deps.json
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\FileInputOutput\FileInputOutput\bin\Debug\net8.0\FileInputOutput.runtimeconfig.json
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\FileInputOutput\FileInputOutput\bin\Debug\net8.0\FileInputOutput.dll
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\FileInputOutput\FileInputOutput\bin\Debug\net8.0\FileInputOutput.pdb
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\FileInputOutput\FileInputOutput\obj\Debug\net8.0\FileInputOutput.dll
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\FileInputOutput\FileInputOutput\obj\Debug\net8.0\refint\FileInputOutput.dll
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\FileInputOutput\FileInputOutput\obj\Debug\net8.0\FileInputOutput.pdb
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\FileInputOutput\FileInputOutput\obj\Debug\net8.0\FileInputOutput.genruntimeconfig.cache
+C:\Users\Suraj\OneDrive\Desktop\internship\Tasks\FileInputOutput\FileInputOutput\obj\Debug\net8.0\ref\FileInputOutput.dll
