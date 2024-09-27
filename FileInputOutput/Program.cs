@@ -11,9 +11,9 @@ namespace FileInputOutput
             string textFilePath = "C:\\Users\\Suraj\\OneDrive\\Desktop\\internship\\Tasks\\FileInputOutput\\Sample.txt";
 
 
-            Console.WriteLine(ReadFile.ReadXmlFile(xmlFilePath));//read xml file
-            Console.WriteLine(ReadFile.ReadHtmlFile(htmlFilePath));//read html ile
-            Console.WriteLine(ReadFile.ReadTextFile(textFilePath));//read text file
+            Console.WriteLine(ReadFiles.ReadXmlFile(xmlFilePath));//read xml file
+            Console.WriteLine(ReadFiles.ReadHtmlFile(htmlFilePath));//read html ile
+            Console.WriteLine(ReadFiles.ReadTextFile(textFilePath));//read text file
 
             //Taking the usename from the user
             Console.WriteLine("Enter the username to write in file");
@@ -21,13 +21,13 @@ namespace FileInputOutput
             Console.WriteLine();
 
             WriteFiles.WriteXmlFile(xmlFilePath, username);//write text into xml file
-            Console.WriteLine(ReadFile.ReadXmlFile(xmlFilePath));
+            Console.WriteLine(ReadFiles.ReadXmlFile(xmlFilePath));
 
             WriteFiles.WriteTextFile(textFilePath, username);//write text into text file
-            Console.WriteLine(ReadFile.ReadTextFile(textFilePath));
+            Console.WriteLine(ReadFiles.ReadTextFile(textFilePath));
 
             WriteFiles.WriteHtmlFile(htmlFilePath, username);//write text into html file
-            Console.WriteLine(ReadFile.ReadHtmlFile(htmlFilePath));
+            Console.WriteLine(ReadFiles.ReadHtmlFile(htmlFilePath));
 
 
         }

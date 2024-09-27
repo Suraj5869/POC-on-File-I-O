@@ -7,7 +7,7 @@ using System.Xml.Linq;
 
 namespace FileInputOutput.Models
 {
-    internal class ReadFile
+    internal class ReadFiles
     {
         //Method to read XML file
         //Using XElement class and Load method to load file content in a variable 
